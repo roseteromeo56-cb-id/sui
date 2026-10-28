@@ -167,7 +167,7 @@
         "@vscode/debugprotocol": "1.66.0",
         "fzstd": "^0.1.1",
         "lodash.snakecase": "^4.1.1",
-        "toml": "^3.0.0"
+        "toml": "^5.0.1"
     },
     "devDependencies": {
         "@types/lodash.snakecase": "^4.1.9",
